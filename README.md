@@ -3,4 +3,5 @@
 
 This opinionated Framework covers several areas of compliance, risk, auditability, and management which would be important for any Enterprise that is interested in leveraging Generative AI for the enablement of their workforce and the benefit of their customers.
 
-<img width="1680" alt="image" src="https://user-images.githubusercontent.com/121593006/236940921-30b18915-55fb-46f2-b366-070eb9b59903.png">
+<img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/9ebc5aa4-97d0-45e8-ae53-080e2584ebfb">
+
