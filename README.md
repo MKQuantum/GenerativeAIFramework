@@ -5,3 +5,30 @@ This opinionated Framework covers several areas of compliance, risk, auditabilit
 
 <img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/9ebc5aa4-97d0-45e8-ae53-080e2584ebfb">
 
+## Intake
+
+
+## Approvals
+
+
+## Training
+
+
+## Policies
+
+
+## Risk and Controls
+<img width="1383" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/18b67040-f719-42ab-8ca4-68961acade3b">
+
+
+## Traceability
+
+
+## Audit
+
+
+## Culture
+
+
+## GenAIOps
+<img width="1647" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/2771a9c4-42b4-4a4f-999a-0235e310253c">
