@@ -7,6 +7,7 @@ There are several considerations which will be important for adoption:
 
 * Layered approach to Governance for Deployment of services and Creation of new solutions
 * Start with the basics of Governance and build from there
+* There is no "one size fits all" Governance and your Framework will need to change over time
 * Provide Risk Management and Audit groups a baseline of what the "ideal state" looks like
 * Invest in your teams with Education and Coaching
 * Provide enough Risk Coverage to help the Enterprise understand how their [Risk Appetite](https://www.theirm.org/what-we-say/thought-leadership/risk-appetite-and-tolerance/) is affected
