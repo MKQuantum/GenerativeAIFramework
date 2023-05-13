@@ -5,10 +5,11 @@
 
 There are several considerations which will be important for adoption:
 
-* Layered approach to Governance for Deployments and Creation
+* Layered approach to Governance for Deployment of services and Creation of new solutions
 * Start with the basics of Governance and build from there
 * Provide Risk Management and Audit groups a baseline of what the "ideal state" looks like
 * Invest in your teams with Education and Coaching
+* Provide enough Risk Coverage to help the Enterprise understand how their [Risk Appetite](https://www.theirm.org/what-we-say/thought-leadership/risk-appetite-and-tolerance/) is affected
 
 <img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/9ebc5aa4-97d0-45e8-ae53-080e2584ebfb">
 
