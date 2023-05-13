@@ -89,7 +89,7 @@ By following this Framewok, you will have several basic componenets needed for t
 
 ## Audit
 
-Audit can sometimes be considered an after-thought when implementing new technologies within an Enterprise. But as the [Third Line of Defense](https://www.osfi-bsif.gc.ca/Eng/fi-if/rai-eri/sp-ps/Pages/12-Internal_Audit.aspx#:~:text=The%20Internal%20Audit%20function%20(the,highest%20level%20of%20independence%20and) they are an important stakeholder that needs to be included early and often.  
+Audit can sometimes be considered an after-thought when implementing new technologies within an Enterprise. But as the Third Line of Defense they are an important stakeholder that needs to be included early and often.  
 
 Ensure that they are a stakeholder and understand each component of this Framework.
 
