@@ -3,7 +3,7 @@
 
 ## This opinionated Framework covers  areas of compliance, risk, auditability, and management which would be important for any Enterprise that is interested in leveraging Generative AI for the enablement of their workforce and the benefit of their customers.
 
-There are several considerations which will be important for adoption:
+There are several considerations which will be important for adoption: 
 
 * Layered approach to Governance for Deployment of services and Creation of new solutions
 * Start with the basics of Governance and build from there
