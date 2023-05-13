@@ -7,12 +7,21 @@ This opinionated Framework covers several areas of compliance, risk, auditabilit
 
 ## Intake
 
+The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraring it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, a defined intake process becomes more important - but also more difficult to implement.
+
+For situations where teams are leveraing Generative AI services that are provided within an Enterprises in a controlled manner, a web form with details such as name, department, use case, and one-up manager name could be a way to control access and provide a catalog of implementations.
+
+For development teams that are creating solutions, the Enterprises existing proceses to control Open Source dependencies and access controls to development environments could act as the first layer of defense.  
+
+If an Enterprise is leveraging vendor tools which are used across the Enterprise, and which Generative AI has been added to, a Policy may need to be created to have Generative AI capabilities turned off by default.  Then, have users follow the process mentioned above where they enter details in a web form.
 
 ## Approvals
 
+After intakes, the next important Governance component is Approvals.  Accountability will be important for the proliferation of Generative AI in Eneterprises since it will hold users responsible for there usage and provide oversight as well which can be tracked and audited.
 
 ## Training
 
+While training AI Models is important, it is equally as important to prepare your Enterprise users to be trained to increase their Generative AI literacy.  Training is important for all new concepts and technologies within an Enterprise, but is even more important for technologies such as Generative AI that will have a profound effect on users daily work - and the risk appetitite of the Enterprise.
 
 ## Policies
 
