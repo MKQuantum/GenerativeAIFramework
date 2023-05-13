@@ -36,9 +36,7 @@ This opinionated Framework covers several areas of compliance, risk, auditabilit
 
 | Term | Description   |
 | :-----: | :---: |
-| Generative AI (GenA) | Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data ([techtarget.com](https://www.techtarget.com/searchenterpriseai/definition/generative-AI))  |
-| Large Language Models (LLM)| 301   |
-| Retrieval Augmented Generation| 301   |
-| Large Language Models (LLM)| 301   |
-| AI Hallucinations| 301   |
-| Throttling| 301   |
+| Generative AI (GenA) | Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data. ([techtarget.com](https://www.techtarget.com/searchenterpriseai/definition/generative-AI))  |
+| Large Language Models (LLM)| A large language model, or LLM, is a deep learning algorithm that can recognize, summarize, translate, predict and generate text and other content based on knowledge gained from massive datasets. ([nvidia.com](https://blogs.nvidia.com/blog/2023/01/26/what-are-large-language-models-used-for/#:~:text=A%20large%20language%20model%2C%20or,successful%20applications%20of%20transformer%20models.))  |
+| Retrieval Augmented Generation| RAG retrieves data from outside the language model and augments the prompts by adding the relevant retrieved data in context ([AWS](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/#:~:text=To%20solve%20the%20constraints%20we,introduced%20by%20Lewis%20et%20al.))   |
+| AI Hallucinations| When an AI is perceiving something that is not real. |
