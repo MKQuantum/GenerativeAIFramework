@@ -31,4 +31,14 @@ This opinionated Framework covers several areas of compliance, risk, auditabilit
 
 
 ## GenAIOps
-<img width="1647" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/2771a9c4-42b4-4a4f-999a-0235e310253c">
+<img width="1670" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/0bbb1c17-ce08-4405-aec9-fee233cf8565">
+
+
+| Term | Description   |
+| :-----: | :---: |
+| Generative AI (GenA) | Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data ([techtarget.com](https://www.techtarget.com/searchenterpriseai/definition/generative-AI))  |
+| Large Language Models (LLM)| 301   |
+| Retrieval Augmented Generation| 301   |
+| Large Language Models (LLM)| 301   |
+| AI Hallucinations| 301   |
+| Throttling| 301   |
