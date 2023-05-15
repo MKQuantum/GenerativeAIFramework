@@ -17,30 +17,30 @@ There are several considerations which will be important for adoption:
 
 ## Intake
 
-The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraring it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, a defined intake process becomes more important - but also more difficult to implement.
+The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraging it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, a defined intake process becomes more important - but also more difficult to implement.
 
-For situations where teams are leveraing Generative AI services that are provided within an Enterprises in a controlled manner, a web form with details such as:
+For situations where teams are leveraging Generative AI services that are provided within an Enterprises in a controlled manner, a web form with the following details may be a good starting point:
 
 - [ ] Name
 - [ ] Department
 - [ ] Use case
 - [ ] One-up Manager Name
 
-For development teams that are creating solutions, the Enterprises existing proceses to control Open Source dependencies and access controls to development environments could act as the first layer of defense.  
+For development teams that are creating solutions, the Enterprises existing processes to control Open Source dependencies and access controls to development environments could act as the first layer of defense.  
 
-If an Enterprise is leveraging vendor tools which are used across the Enterprise, and which Generative AI has been added to, a Policy may need to be created to have Generative AI capabilities turned off by default.  Then, have users follow the process mentioned above where they enter details in a web form.
+If an Enterprise is leveraging vendor tools which are used across the Enterprise, and which Generative AI has been added to, a Policy may need to be created to have Generative AI capabilities turned off by default.  Then, have users follow the process to request the capabilities to be turned on.
 
 ## Approvals
 
-After intakes, the next important Governance component is Approvals.  Accountability will be important for the proliferation of Generative AI in Eneterprises since it will hold users responsible for there usage and provide oversight as well which can be tracked and audited.
+After intakes, the next important Governance component is Approvals.  Accountability will be important with the proliferation of Generative AI in Enterprises since it will hold users responsible for their usage and provide oversight as well which can be tracked and audited.
 
 ## Training
 
-While training AI Models is important, it is equally as important to prepare your Enterprise users to be trained to increase their Generative AI literacy.  Training is important for all new concepts and technologies within an Enterprise, but is even more important for technologies such as Generative AI that will have a profound effect on users daily work - and the risk appetitite of the Enterprise.
+While training AI Models is important, it is equally as important to train your Enterprise users to help increase their Generative AI literacy.  Training is important for all new concepts and technologies within an Enterprise, but is even more important for technologies such as Generative AI that will have a profound effect on users daily work - and the risk appetite of the Enterprise.
 
 Some example of Training courses that could be provided are:
 
-- [ ] High Level Introduction to AI (What is AI? What are considerations for society and busines?)
+- [ ] High Level Introduction to AI (What is AI? What are considerations for society and business?)
 - [ ] Understanding Risk and Bias in AI
 - [ ] DevOps and Cloud Native best practices fo AI
 - [ ] Generative AI Introduction
