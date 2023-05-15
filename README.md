@@ -48,7 +48,7 @@ Some example of Training courses that could be provided are:
 
 ## Policies
 
-Effective Enterprise Policies need to include some basic componets to be effective:
+Effective Enterprise Policies need to include some basic components to be effective:
 
 * Endorsed by Leadership
 * Relevant to Enterprise Values
@@ -61,13 +61,13 @@ The Enterprise will need to make a decision whether to add Generative AI conside
 With each approach, the following considerations may need to be addressed:
 
 - [ ] Transparency on how the Enterprise will use Generative AI (Text Generation for example)
-- [ ] Show stakeholder involvment from across the Enterprise (Legal, Tech, Business, HR, etc.)
+- [ ] Show stakeholder involvement from across the Enterprise (Legal, Tech, Business, HR, etc.)
 - [ ] Make it a [Living Document](https://www.cio.com/article/472690/6-best-practices-to-develop-a-corporate-use-policy-for-generative-ai.html) to show the Enterprise Policy is keeping up to date
 - [ ] Ensure the language is inclusive of all stakeholders and not just a tech audience
 
 ## Risk and Controls
 
-A Risk and Controls Matrix is a tool that can help the [3 Lines of Defence](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/) have a common understanding of Risk in the Enterprise, highlight any control gaps, and provide a realistic path to address any gaps of deficiences.
+A Risk and Controls Matrix is a tool that can help the [3 Lines of Defence](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/) have a common understanding of Risk in the Enterprise, highlight any control gaps, and provide a realistic path to address any gaps of deficiencies.
 
 It's important for any new Technology to start with basic controls, such as code reviews, and then over time add controls that are more specific to the technology (such as Retrieval Augmented Generation for Generative AI).
 
@@ -80,7 +80,7 @@ The matrix below should be considered a starting point to cover the basic contro
 
 Traceability is important in Governance because it allows you to follow the trail back to the source - whether you are governing software development, data ownership, infrastructure as code, and financial reporting.
 
-By following this Framewok, you will have several basic componenets needed for traceability:
+By following this Framework, you will have several basic components needed for traceability:
 
 - [ ] A consistent intake process will allow the Enterprise to understand the population of Generative AI solutions
 - [ ] An approval process will provide oversight and an audit trail
@@ -100,7 +100,7 @@ In the blog post [Moore's Law for Everything](https://moores.samaltman.com), Sam
 
 For an Enterprise who wants to leverage Generative AI, it's important to remember there is an ingrained culture within the Enterprise society that will need to be addressed.
 
-Training is an required next step, but it will be important for an Enterprise to work with HR and other stakeholders to ensure a holistic and inclusive people change management exercise is conducted.  
+Training is a required next step, but it will be important for an Enterprise to work with HR and other stakeholders to ensure a holistic and inclusive people change management exercise is conducted.  
 
 Some topics that may need to be addressed are:
 
