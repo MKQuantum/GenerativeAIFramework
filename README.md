@@ -3,10 +3,11 @@
 
 ## This opinionated Framework covers  areas of compliance, risk, auditability, and management which would be important for any Enterprise that is interested in leveraging Generative AI for the enablement of their workforce and the benefit of their customers.
 
-<img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/9ebc5aa4-97d0-45e8-ae53-080e2584ebfb">
+<img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/5eba146a-83fc-495b-82ee-77782cd5ed9e">
 
 There are several considerations which will be important for adoption: 
 
+* Generative AI will soon be ubiquitous in every aspect of the Enterprise so Governance will need to an enabler and allow for growth, but with guardrails.
 * Layered approach to Governance for Deployment of services and Creation of new solutions
 * Start with the basics of Governance and build from there
 * There is no "one size fits all" Governance and your Framework will need to change over time
@@ -17,22 +18,16 @@ There are several considerations which will be important for adoption:
 
 ## Intake
 
-The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraging it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, a defined intake process becomes more important - but also more difficult to implement.
+The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraging it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, understanding the existing security and access controls of existing tools and platforms may be a good starting point to provide assurance that risks are covered.
 
-For situations where teams are leveraging Generative AI services that are provided within an Enterprises in a controlled manner, a web form with the following details may be a good starting point:
+For situations where teams are leveraging Generative AI services that are provided within an Enterprises in a controlled manner, a web form with the following details may be also be a possibility:
 
 - [ ] Name
 - [ ] Department
 - [ ] Use case
-- [ ] One-up Manager Name
+- [ ] Approvals from one-up Manager Name
 
 For development teams that are creating solutions, the Enterprises existing processes to control Open Source dependencies and access controls to development environments could act as the first layer of defense.  
-
-If an Enterprise is leveraging vendor tools which are used across the Enterprise, and which Generative AI has been added to, a Policy may need to be created to have Generative AI capabilities turned off by default.  Then, have users follow the process to request the capabilities to be turned on.
-
-## Approvals
-
-After intakes, the next important Governance component is Approvals.  Accountability will be important with the proliferation of Generative AI in Enterprises since it will hold users responsible for their usage and provide oversight as well which can be tracked and audited.
 
 ## Training
 
