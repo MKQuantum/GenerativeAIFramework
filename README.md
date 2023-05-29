@@ -7,7 +7,7 @@
 
 There are several considerations which will be important for adoption: 
 
-* Generative AI will soon be ubiquitous in every aspect of the Enterprise so Governance will need to an enabler and allow for growth, but with guardrails.
+* Generative AI will soon be ubiquitous in every aspect of the Enterprise so Governance will need to be an enabler and allow for growth - but with guardrails.
 * Layered approach to Governance for Deployment of services and Creation of new solutions
 * Start with the basics of Governance and build from there
 * There is no "one size fits all" Governance and your Framework will need to change over time
