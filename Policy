@@ -1,16 +1,1 @@
-# Enterprise Governance Framework for Generative AI
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/121593006/236930142-97eb9410-6d36-4634-90ca-ca1009a775bb.png">
 
-## This opinionated Framework covers  areas of compliance, risk, auditability, and management which would be important for any Enterprise that is interested in leveraging Generative AI for the enablement of their workforce and the benefit of their customers.
-
-<img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/5eba146a-83fc-495b-82ee-77782cd5ed9e">
-
-There are several considerations which will be important for adoption: 
-
-* Generative AI will soon be ubiquitous in every aspect of the Enterprise so Governance will need to be an enabler and allow for growth - but with guardrails.
-* Layered approach to Governance for Deployment of services and Creation of new solutions
-* Start with the basics of Governance and build from there
-* There is no "one size fits all" Governance and your Framework will need to change over time
-* Provide Risk Management and Audit groups a baseline of what the "ideal state" looks like
-* Invest in your teams with Education and Coaching
-* Provide enough Risk Coverage to help the Enterprise understand how their [Risk Appetite](https://www.theirm.org/what-we-say/thought-leadership/risk-appetite-and-tolerance/) is affected
