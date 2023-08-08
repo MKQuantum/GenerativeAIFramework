@@ -153,8 +153,10 @@ The following opinionated GenAI DevOps Pipelines could be combined with a Lightw
   | Policy Domain | Domain Details |
 | ------------- | ------------- |
 | **Policy Statement**  | Generative AI is becoming an ubiquitous technology within Business and Technology, and it is the policy of the Enterprise to protect all company data and development assets, as well as customer information, from exposure that would violate regulatory requirements and the Enterprise Risk Appetite   during the Development, Testing, and Deployment of GenAI solutions.  |
+| **Policy Context** | Internal Generative AI development and deployments that are created within the Enterprise - leveraing tools, services, and models provided from internal or external sources. |
 | **Development & Operations Responsibilities** | All Development and Operations staff are responsible for protecting corporate and customer data and information during GenAI development.  Details on appropirate tools, services, APIs, Open Source resources which are found in the GenAI Technology Standard, will be followed.
 | **Risk and Audit Responsibilities** | Risk, Governance, and Internal Audit will perform periodic reviews of GenAI development solutions that are holistic and included all phases of the software lifecycle - including Production monitoring and retraining of relevant models. |
+| **Owner** | Enterprise Owner (will vary for each Enterprise) |
   
   <br>
   
@@ -166,16 +168,27 @@ The following opinionated GenAI DevOps Pipelines could be combined with a Lightw
 
 <br>
 
-| **Term** | **Description**   |
+ | Standard Domain | Domain Details |
+| ------------- | ------------- |
+| **Description of Standard** | While there are standards being created to address the users of [consumer generative AI services](https://rankingdigitalrights.org/mini-report/introducing-rdrs-preliminary-standards-for-generative-ai/), this standard is focused on providing mandatory guardrails and requirements to support an Enterprise's Policy for internal Development, Testing, and Deployment of Generative AI solutions. |
+| **Standard Specification** | All internal Development of Generative AI services and applications will adopt the following guardrails and requirements: <br /><br /> 1. Traditional software delivery and DevOps best practices will be followed. <br /> 2. Generative AI Services & Tools will follow a standard intake process that includes a review of data, service/tool provide, cloud roadmap, risk appetite, and use case.  <br /> 3. [Prompt Engineering Best Practices](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering#best-practices) will be followed for all services or applications that leverage prompt-based models. <br /> 4. The Large Language Models used for the services and applications will be documented and details will be made available to Risk and Governance teams, Internal and Exeternal Audit, and other stakeholders on demand. <br /> 5. If an Enterprise's own data to generate prompt responses, only approved [Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2#:~:text=Retrieval%20Augmented%20Generation%20(RAG)%20is,is%20currently%20in%20public%20preview) will be leveraged. |
+| **Where to Apply This Standard** | This standard applies to all Development and Delivery teams within the Enterprise - including external developers and engineers who are working on proprietary applications and services. |
+| **Owner** | Enterprise Owner (will vary for each Enterprise) | 
+
+<br>
+
+| **Standard Terms** | **Description**  |
 | :-----: | :---: |
 | Generative AI (GenAI) | Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data. ([techtarget.com](https://www.techtarget.com/searchenterpriseai/definition/generative-AI))  |
 | Large Language Models (LLM)| A large language model, or LLM, is a deep learning algorithm that can recognize, summarize, translate, predict and generate text and other content based on knowledge gained from massive datasets. ([nvidia.com](https://blogs.nvidia.com/blog/2023/01/26/what-are-large-language-models-used-for/#:~:text=A%20large%20language%20model%2C%20or,successful%20applications%20of%20transformer%20models.))  |
 | Retrieval Augmented Generation| RAG retrieves data from outside the language model and augments the prompts by adding the relevant retrieved data in context ([AWS](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/#:~:text=To%20solve%20the%20constraints%20we,introduced%20by%20Lewis%20et%20al.))   |
 | AI Hallucinations| When an AI is perceiving something that is not real. |
 
-To help enable Enterprises with onboarding of Services and Tools, the following topics could be leveraged as a checklist to help streamline governance and security reviews by providing a baseline set of criteria.  
-| **Review Topic** | **Description**  |
+<br>
+
+| **Standard Servies & Tools Review Topics** | **Description**  |
 | :-----: | :---: |
+| Review Contenxt| To help enable Enterprises with onboarding of Services and Tools, the following topics could be leveraged as a checklist to help streamline governance and security reviews by providing a baseline set of criteria. |
 | Enterprise Cloud Provider | Cloud Provider's such as AWS and Azure have started releasing Generative AI tools and services such as [Azure Promptflow](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) and [Amazon Kendra](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/).  If the Enterprise preferred Cloud Provider provided Generative AI development tooling, it may be easier to have the service or tool certified for Enterprise use.  |
 | Service Certification | An Enterprise may already have a process in place to Certify Cloud services or tooling with existing checklists for common topics such as security, traceability, audit, logging, and etc.  Tools such as Azure Promptflow or Amazon Kendra could also be onboarded leveraging existing processes like this - providing Governance decision makers with criteria and review topices they are familiar with. |
 | Open Source Maturity | If the Enterprise has an existing [Open Source Program Office](https://github.blog/2023-03-13-an-open-source-project-to-empower-ospos-everywhere/) and is comfortable with the use of Open Source tooling, leveraging Generative AI Open Source services and tools should follow existing processes.  But, for an Enterprise that does not currently have governance and management in place for Open Source tools, the overhead of onboarding new tools available in the Open Source community may be too time consuming.  Tools provided by preferred Cloud Providers may be a better option until Open Source maturity has increased. |
