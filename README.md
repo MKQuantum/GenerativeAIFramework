@@ -145,6 +145,26 @@ The following opinionated GenAI DevOps Pipelines could be combined with a Lightw
 
 <img width="1670" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/0bbb1c17-ce08-4405-aec9-fee233cf8565">
 
+<details>
+  
+  <summary>GenAI Technology Policy</summary>
+<br>
+
+  | Policy Domain | Domain Details |
+| ------------- | ------------- |
+| **Policy Statement**  | Generative AI is becoming an ubiquitous technology within Business and Technology, and it is the policy of the Enterprise to protect all company data and development assets, as well as customer information, from exposure that would violate regulatory requirements and the Enterprise Risk Appetite   during the Development, Testing, and Deployment of GenAI solutions.  |
+| **Development & Operations Responsibilities** | All Development and Operations staff are responsible for protecting corporate and customer data and information during GenAI development.  Details on appropirate tools, services, APIs, Open Source resources which are found in the GenAI Technology Standard, will be followed.
+| **Risk and Audit Responsibilities** | Risk, Governance, and Internal Audit will perform periodic reviews of GenAI development solutions that are holistic and included all phases of the software lifecycle - including Production monitoring and retraining of relevant models. |
+  
+  <br>
+  
+</details>
+
+<details>
+
+<summary>GenAI Technology Standard</summary>
+
+<br>
 
 | **Term** | **Description**   |
 | :-----: | :---: |
@@ -163,4 +183,5 @@ To help enable Enterprises with onboarding of Services and Tools, the following 
 | Data Classification | Any decisions on services or tooling that will be leveraged for Generative AI development should factor in the classification of the data that will be leveraged by the Language Models.  Data controls and governance for restricted or confidential data are much more strict than internal or public data. |
 |Data Residency | There are data residency requirements for regions around the World which need to be considered for Generative AI development.  For example, the [General Data Protection Regulation](https://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018) requires personal data for EU residents needs to stay in the EU.  This is an important consideration for Open Source tools or other Services that may be sending data to other regions around the world. |
 | Enterprise Risk Appetite | The [Enterprise Risk Appetite](https://www.theirm.org/what-we-say/thought-leadership/risk-appetite-and-tolerance/) is the amount of risk an Enterprise is willing to take on to meet its objectives.  This is an important factor for Generative AI development since its such a game-changer for the Industry.  An Enterprise who has bee traditionally conservative may update their Risk Appetite to take advantage of the tremendous potential of Generative AI Capabilities.  | 
+
 </details>
