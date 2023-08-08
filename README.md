@@ -20,6 +20,7 @@ There are several considerations which will be important for adoption:
 
 <details>
   <summary>Entry Point of Governance</summary>
+  <br>
 The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraging it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, understanding the existing security and access controls of existing tools and platforms may be a good starting point to provide assurance that risks are covered.
 
 For situations where teams are leveraging Generative AI services that are provided within an Enterprises in a controlled manner, a web form with the following details may be also be a possibility:
@@ -33,7 +34,9 @@ For development teams that are creating solutions, the Enterprises existing proc
 </details>
 
 ## Training
-
+<details>
+  <summary>Increasing User Literacy</summary>
+  <br>
 While training AI Models is important, it is equally as important to train your Enterprise users to help increase their Generative AI literacy.  Training is important for all new concepts and technologies within an Enterprise, but is even more important for technologies such as Generative AI that will have a profound effect on users daily work - and the risk appetite of the Enterprise.
 
 Some example of Training courses that could be provided are:
@@ -44,8 +47,12 @@ Some example of Training courses that could be provided are:
 - [ ] Generative AI Introduction
 - [ ] Generative AI Development
 
-## Policies
+</details>
 
+## Policies
+<details>
+  <summary>Enterprise Policies</summary>
+  <br>
 Effective Enterprise Policies need to include some basic components to be effective:
 
 * Endorsed by Leadership
@@ -63,8 +70,13 @@ With each approach, the following considerations may need to be addressed:
 - [ ] Make it a [Living Document](https://www.cio.com/article/472690/6-best-practices-to-develop-a-corporate-use-policy-for-generative-ai.html) to show the Enterprise Policy is keeping up to date
 - [ ] Ensure the language is inclusive of all stakeholders and not just a tech audience
 
+</details>
+
 ## Risk and Controls
 
+<details>
+  <summary>Understanding Enterprise Risks</summary>
+  <br>
 A Risk and Controls Matrix is a tool that can help the [3 Lines of Defence](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/) have a common understanding of Risk in the Enterprise, highlight any control gaps, and provide a realistic path to address any gaps of deficiencies.
 
 It's important for any new Technology to start with basic controls, such as code reviews, and then over time add controls that are more specific to the technology (such as Retrieval Augmented Generation for Generative AI).
@@ -72,10 +84,12 @@ It's important for any new Technology to start with basic controls, such as code
 The matrix below should be considered a starting point to cover the basic controls and will be expanded overtime here and within Enterprises who chose to adopt this Framework, to include controls specific to Generative AI.
 
 <img width="1383" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/18b67040-f719-42ab-8ca4-68961acade3b">
-
+</details>
 
 ## Traceability
-
+<details>
+  <summary>End-to-End Traceability</summary>
+  <br>
 Traceability is important in Governance because it allows you to follow the trail back to the source - whether you are governing software development, data ownership, infrastructure as code, and financial reporting.
 
 By following this Framework, you will have several basic components needed for traceability:
@@ -84,16 +98,21 @@ By following this Framework, you will have several basic components needed for t
 - [ ] An approval process will provide oversight and an audit trail
 - [ ] Access control in the GenAIOps pipeline
 - [ ] Documented training attendance
-
+</details>
 
 ## Audit
-
+<details>
+  <summary>Engaging Audit</summary>
+  <br>
 Audit can sometimes be considered an after-thought when implementing new technologies within an Enterprise. But as the Third Line of Defense they are an important stakeholder that needs to be included early and often.  
 
 Ensure that they are a stakeholder and understand each component of this Framework.
+</details>
 
 ## Culture
-
+<details>
+  <summary>Enterprise Culture</summary>
+  <br>
 In the blog post [Moore's Law for Everything](https://moores.samaltman.com), Sam Altman highlights the power of AI to change our society.  
 
 For an Enterprise who wants to leverage Generative AI, it's important to remember there is an ingrained culture within the Enterprise society that will need to be addressed.
@@ -106,9 +125,14 @@ Some topics that may need to be addressed are:
 - [ ] How will people's work be evaluated if it was created with Generative AI?
 - [ ] Will the yearly bonus be different for people who use Generative AI and those that don't?
 - [ ] Will Generative make the Enterprise culture more or less inclusive?
+</details>
 
 ## GenAIOps
 
+<details>
+  <summary>Generative AI Development and Operations</summary>
+  <br>
+  
 [DevOps](https://resources.github.com/devops/) and [MLOps](https://www.databricks.com/glossary/mlops#:~:text=MLOps%20stands%20for%20Machine%20Learning,then%20maintaining%20and%20monitoring%20them.) culture and best practices can help Development teams get their solutions to Production in standardized, repeatable, secure, and optimized workflows.
 
 These best practices can be applied to Generative AI to help teams create solutions and deploy them in Enterprises.
@@ -139,4 +163,4 @@ To help enable Enterprises with onboarding of Services and Tools, the following 
 | Data Classification | Any decisions on services or tooling that will be leveraged for Generative AI development should factor in the classification of the data that will be leveraged by the Language Models.  Data controls and governance for restricted or confidential data are much more strict than internal or public data. |
 |Data Residency | There are data residency requirements for regions around the World which need to be considered for Generative AI development.  For example, the [General Data Protection Regulation](https://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018) requires personal data for EU residents needs to stay in the EU.  This is an important consideration for Open Source tools or other Services that may be sending data to other regions around the world. |
 | Enterprise Risk Appetite | The [Enterprise Risk Appetite](https://www.theirm.org/what-we-say/thought-leadership/risk-appetite-and-tolerance/) is the amount of risk an Enterprise is willing to take on to meet its objectives.  This is an important factor for Generative AI development since its such a game-changer for the Industry.  An Enterprise who has bee traditionally conservative may update their Risk Appetite to take advantage of the tremendous potential of Generative AI Capabilities.  | 
-
+</details>
