@@ -110,6 +110,12 @@ Some topics that may need to be addressed are:
 
 These best practices can be applied to Generative AI to help teams create solutions and deploy them in Enterprises.
 
+The following opinionated GenAI DevOps Pipelines could be combined with a Lightweight Technology Policy and Standard to provide an Enterprise with holistic and practical guidelines for the following:
+
+- [ ] Repeatable processes and enterprise approved tools to develop and deploy Generative AI solutions
+- [ ] High level Enterprise statement of objectives, and realistic way of realizing goals
+- [ ] Mandatory requirements that support the Technology Policy
+
 <img width="1670" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/0bbb1c17-ce08-4405-aec9-fee233cf8565">
 
 
