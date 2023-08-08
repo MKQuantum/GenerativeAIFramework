@@ -18,6 +18,8 @@ There are several considerations which will be important for adoption:
 
 ## Intake
 
+<details>
+  <summary>Entry Point of Governance</summary>
 The intake is the entry point for a Governance Framework and may be different for various teams in the Enterprise.  Teams that are using Generative AI apps as a Service, such as leveraging it within an Excel sheet, will have a different entry point then teams that are creating solutions.  With the proliferation of Generative AI within browsers and other ubiquitous tools, understanding the existing security and access controls of existing tools and platforms may be a good starting point to provide assurance that risks are covered.
 
 For situations where teams are leveraging Generative AI services that are provided within an Enterprises in a controlled manner, a web form with the following details may be also be a possibility:
@@ -28,6 +30,7 @@ For situations where teams are leveraging Generative AI services that are provid
 - [ ] Approvals from one-up Manager Name
 
 For development teams that are creating solutions, the Enterprises existing processes to control Open Source dependencies and access controls to development environments could act as the first layer of defense.  
+</details>
 
 ## Training
 
