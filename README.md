@@ -1,7 +1,7 @@
 # Enterprise Governance Framework for Generative AI
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/121593006/236930142-97eb9410-6d36-4634-90ca-ca1009a775bb.png">
 
-## This opinionated Framework covers both Enterprise Implementations of Generative AI solutions within common tools like Office or Development IDEs - as well as the internal Development and Deployment of proprietary services and applications.
+## This opinionated Framework helps to ensure Human Accountability and covers both Enterprise Implementations of Generative AI solutions within common tools like Office or Development IDEs - as well as the internal Development and Deployment of proprietary services and applications.
 
 <img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/0ada2a3d-569c-46ec-9c66-bd2c97e7ab5d">
 
@@ -158,7 +158,7 @@ A Risk and Controls Matrix is a tool that can help the [3 Lines of Defence](http
 
 It's important for any new Technology to start with basic controls, such as code reviews, and then over time add controls that are more specific to the technology (such as Retrieval Augmented Generation for Generative AI).
 
-The matrix below should be considered a starting point to cover the basic controls and will be expanded overtime here and within Enterprises who chose to adopt this Framework, to include controls specific to Generative AI.
+The matrix below should be considered a starting point to cover the basic controls and risks for both Generative AI powered services like [AI-Pair Programmers](https://github.com/features/copilot), as well as an Enterprise's internal Development, Testing, and Deployment of Generative AI solutions.
 
 <img width="1383" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/18b67040-f719-42ab-8ca4-68961acade3b">
 </details>
