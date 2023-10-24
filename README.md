@@ -3,7 +3,7 @@
 
 ## This opinionated Framework helps to ensure Human Accountability and covers both Enterprise Implementations of Generative AI solutions within common tools like Office or Development IDEs - as well as the internal Development and Deployment of proprietary services and applications.
 
-<img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/1ebacc8e-bd27-4154-859e-4fe674f4f8e3">
+<img width="1680" alt="image" src="https://github.com/MKQuantum/GenerativeAIFramework/assets/121593006/cdfc281e-660f-4696-a15f-d61d8424e361">
 
 There are several considerations which will be important for adoption: 
 
